@@ -88,7 +88,11 @@ def getInputPhoto(file_name):
 
 def processImg(file_in_name, file_out_name_without_ext):
     print(current_time() + ', [processImg]: file_name = %s' % (FLAGS['folder_input'] + file_in_name))
-    input_img = cv2.imread(FLAGS['folder_input'] + file_in_name, -1)
+    cwd = os.getcwd()
+    fullpath = cwd +"/"+FLAGS['folder_input'] + file_in_name
+    print("fullpath = ", fullpath)
+    input_img = cv2.imread(fullpath, -1)
+    print("input_img = ",input_img)
     input_img, _, rect = random_pad_to_size(input_img, FLAGS['data_image_size'], None, True, False)
     input_img = input_img[None, :, :, :]
     dict_d = [input_img, rect, 0]
