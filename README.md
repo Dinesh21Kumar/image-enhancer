@@ -11,5 +11,5 @@
 For models, contact [Abhinandan Dogra](https://github.com/Abhinandan11)
 
 Sample Output:<br>
-![Input](static/uploads/input.png)
-![Output](static/result/output.png)
+![Input](static/uploads/smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543.png)
+![Output](static/result/smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543_enhanced.png)
