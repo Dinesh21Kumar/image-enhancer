@@ -13,4 +13,4 @@ For models, contact [Abhinandan Dogra](https://github.com/Abhinandan11)
 Sample INPUT/OUTPUT:<br>
 ![Input](static/uploads/smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543.png)
 ![Output](static/result/smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543_enhanced.png)
-![Compare](static/result/smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543_vs_smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543_enhanced.jpg)
+![Compare](static/compare/smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543_vs_smoothie-bowl-with-blueberries-raspberries-kiwi-and-royalty-free-image-1580427543_enhanced.jpg)
